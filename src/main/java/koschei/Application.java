@@ -14,8 +14,4 @@ public class Application {
 
         System.out.println(koscheiTheDeathless.getRulesByDeth());
     }
-
-    //«На море на океане есть остров, на том острове дуб стоит,
-    // под дубом сундук зарыт, в сундуке — заяц, в зайце — утка,
-    // в утке — яйцо, в яйце — игла, — смерть Кощея»
 }
